@@ -22,3 +22,5 @@ erl_crash.dump
 # Ignore package tarball (built via "mix hex.build").
 postcodeapi-*.tar
 
+* Elixir Ls files
+/.elixir_ls/
